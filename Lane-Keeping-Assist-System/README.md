@@ -55,9 +55,7 @@ These plots provide insights into the system's performance.
 
 ## Acknowledgments
 
-This project is inspired by the principles of vehicle dynamics and control. The curvature previewing and MPC setup are adapted to ensure real-time feasibility and accuracy.
-
-The implementation is based on [MathWorks' Lane Keeping Assist System using Model Predictive Control](https://de.mathworks.com/help/mpc/ug/lane-keeping-assist-system-using-model-predictive-control.html).
+This project is inspired by the principles of vehicle dynamics and control. The curvature previewing and MPC setup are adapted to ensure real-time feasibility and accuracy. This implementation was inspired by a MathWorks example [MathWorks' Lane Keeping Assist System using Model Predictive Control](https://de.mathworks.com/help/mpc/ug/lane-keeping-assist-system-using-model-predictive-control.html). The parameters used were adapted from their documentation, but the code and implementation are original
 
 ---
 
