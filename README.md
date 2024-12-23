@@ -27,4 +27,4 @@ Explore individual project folders for instructions on running the implementatio
 
 ## Acknowledgments
 
-This repository brings together concepts from vehicle dynamics, control theory, and automated driving. It is intended to serve as a practical reference for researchers, developers, and enthusiasts in the field.
+This repository brings together concepts from vehicle dynamics, control theory, and automated driving.
