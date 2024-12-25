@@ -15,6 +15,18 @@ This repository showcases a collection of projects in the field of automated dri
    **Folder**: [Lane-Keeping-Assist-System](./Lane-Keeping-Assist-System)  
    **Reference**: Based on [MathWorks' example](https://de.mathworks.com/help/mpc/ug/lane-keeping-assist-system-using-model-predictive-control.html).
 
+2. **Adaptive Cruise Control (ACC) Using Model Predictive Control (MPC)**  
+   **Description**: Implementation of an ACC system using Model Predictive Control (MPC).  
+   **Key Features**:  
+   - Dynamic lead vehicle simulation with sinusoidal acceleration profile.  
+   - MPC-based control for maintaining safe distance and desired velocity.  
+   - Nonlinear constraints for velocity and distance safety.  
+   - Visualization of acceleration, velocity, and relative distance over time.  
+   **Folder**: [Adaptive-Cruise-Contro-MPCl](./Adaptive-Cruise-Control-MPC)  
+   **Reference**: Inspired by [MathWorks' example](https://de.mathworks.com/help/mpc/ug/adaptive-cruise-control-using-model-predictive-controller.html).
+
+---
+
 ## Usage
 
 Clone the repository:  
