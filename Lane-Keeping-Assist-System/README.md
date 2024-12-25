@@ -35,8 +35,8 @@ pip install do-mpc casadi numpy matplotlib
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/lane-keeping-assist-mpc.git
-   cd lane-keeping-assist-mpc
+   git clone https://github.com/your-username/Lane-Keeping-Assist-System.git
+   cd Lane-Keeping-Assist-System
    ```
 2. Open the Jupyter notebook:
    ```bash
