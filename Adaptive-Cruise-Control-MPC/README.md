@@ -51,16 +51,31 @@ This project implements an **Adaptive Cruise Control (ACC)** system using **Mode
 
 ## Installation
 
-### Dependencies
+### Requirements
 - Python 3.7+
-- Required Python libraries:
-  - `numpy`
-  - `matplotlib`
-  - `casadi`
-  - `do-mpc`
+- `numpy`
+- `matplotlib`
+- `casadi`
+- `do-mpc`
 
-### Setup
+## How to Use
+
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name/ACC-MPC.git
-   cd ACC-MPC
+   git clone https://github.com/your-username/Adaptive-Cruise-Control-MPC.git
+   cd Adaptive-Cruise-Control-MPC
+   ```
+2. Open the Jupyter notebook:
+   ```bash
+   jupyter notebook ACC.ipynb
+   ```
+3. Run the cells step by step to execute the simulation.
+
+## Acknowledgments
+
+This project is inspired by the principles of vehicle dynamics and control. The curvature previewing and MPC setup are adapted to ensure real-time feasibility and accuracy. This implementation was inspired by a MathWorks example [MathWorks' Adaptive Cruise Control System Using Model Predictive Control](https://de.mathworks.com/help/mpc/ug/adaptive-cruise-control-using-model-predictive-controller.html). The parameters used were adapted from their documentation, but the code and implementation are original
+
+---
+
+**Note**: For detailed equations and explanations, refer to the markdown cells in the Jupyter notebook.
+
