@@ -22,7 +22,7 @@ This repository showcases a collection of projects in the field of automated dri
    - MPC-based control for maintaining safe distance and desired velocity.  
    - Nonlinear constraints for velocity and distance safety.  
    - Visualization of acceleration, velocity, and relative distance over time.  
-   **Folder**: [Adaptive-Cruise-Contro-MPCl](./Adaptive-Cruise-Control-MPC)  
+   **Folder**: [Adaptive-Cruise-Contro-MPC](./Adaptive-Cruise-Control-MPC)  
    **Reference**: Inspired by [MathWorks' example](https://de.mathworks.com/help/mpc/ug/adaptive-cruise-control-using-model-predictive-controller.html).
 
 ---
